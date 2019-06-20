@@ -13,7 +13,7 @@ KeyBoi is a Supercollider SynthDef which allows for the interpretation of Keyboa
 
 + 3. Add the ~outSignal bus to your server by running codeline 9
 
-+ 4. Add the SynthDef to your server by recalling this code
++ 4. Add the SynthDef to your server by recalling this code bracket
 
 + 5. Initialise KeyBoi by running codeline 99.
 
