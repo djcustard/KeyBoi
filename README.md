@@ -2,10 +2,10 @@
 
 ## ~{BUILT FOR THE SERIOUS}~
 
-### KeyBoi is a Supercollider SynthDef which allows for the interpretation of Keyboard input to control synthesis. Stutter Delay and  Pitch Shift tools have also been applied.
+KeyBoi is a Supercollider SynthDef which allows for the interpretation of Keyboard input to control synthesis. Stutter Delay and  Pitch Shift tools have also been applied.
 
 ```diff
-+ ## _Instructions for Use:_
++  _Instructions for Use:_
 
 + _1. Create a larger server memory allocation by running the s.options code line (4)._
 
@@ -20,7 +20,29 @@
 + _When finished, run codeline 102 to free the synth and end the signal processing._
 
 ```
-### KeyBoi invites the manipulation and interpretation of the code so if you end up creating a new version, please upload it to this repository as it is public. I am excited to see how people change the system.
+ KeyBoi invites the manipulation and interpretation of the code so if you end up creating a new version, please upload it to this repository as it is public. I am excited to see how people change the system.
+ 
+ Controls:
+ 
+ J = Lowest Pitch
+ K = Low-Med Pitch
+ L = Hi-Med Pitch
+ ; = High Pitch
+ 
+ Stutter Delay:
+ 
+ R = Slow Build to Slow Pulse
+ T = Medium Build
+ Y = Fast Build (_Burst!_)
+ 
+ Pitch Shift:
+ 
+ 1 = Fast Increase and Slow Slide
+ 
+ LFO Modulation:
+ 
+ Mouse X-Axis = Increase in Modulation of up to 500Hz (_Oscillation Audible_)
+ Mouse Y-Axis = Increase in Modulation of up to 500Hz (_Oscillation Audible_)
 
 ```diff
 - ## _Troubleshoot Guide:_
