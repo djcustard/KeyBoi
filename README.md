@@ -26,25 +26,25 @@ KeyBoi is a Supercollider SynthDef which allows for the interpretation of Keyboa
  
  _Tone:_ 
  
- J = Lowest Pitch
- K = Low-Med Pitch
- L = Hi-Med Pitch
- ; = High Pitch
+ - J = Lowest Pitch
+ - K = Low-Med Pitch
+ - L = Hi-Med Pitch
+ - ; = High Pitch
  
  _Stutter Delay:_
  
- R = Slow Build to Slow Pulse
- T = Medium Build
- Y = Fast Build (_Burst!_)
+ - R = Slow Build to Slow Pulse
+ - T = Medium Build
+ - Y = Fast Build (_Burst!_)
  
 _Pitch Shift:_
  
- 1 = Fast Increase and Slow Slide
+ - 1 = Fast Increase and Slow Slide
  
  _LFO Modulation:_
  
- Mouse X-Axis = Increase in Modulation of up to 500Hz (_Oscillation Audible_)
- Mouse Y-Axis = Increase in Modulation of up to 500Hz (_Oscillation Audible_)
+ - Mouse X-Axis = Increase in Modulation of up to 500Hz (_Oscillation Audible_)
+ - Mouse Y-Axis = Increase in Modulation of up to 500Hz (_Oscillation Audible_)
 
 ```diff
 - ## _Troubleshoot Guide:_
