@@ -59,3 +59,5 @@ _Pitch Shift:_
 
 ```
 
+Thanks for checking out KeyBoi! Please contact me for further information.
+
