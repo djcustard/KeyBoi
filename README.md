@@ -61,3 +61,4 @@ _Pitch Shift:_
 
 Thanks for checking out KeyBoi! Please contact me for further information.
 
+The Stutter Function was inspired by the work of Snappizz on his work Stutter Tutorial. You can access that patch here: https://sccode.org/1-50T
